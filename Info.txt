@@ -1,0 +1,5 @@
+Filter :
+http://bootsnipp.com/snippets/featured/search-panel-with-filters
+
+Nav bar
+http://www.bootply.com/vGYOO8lr6r#
